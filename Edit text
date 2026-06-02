@@ -1,0 +1,1 @@
+javascript:(()=>{document.designMode=document.designMode==="on"?"off":"on";alert("Design mode is now "+document.designMode);})();
