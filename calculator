@@ -1,0 +1,1 @@
+javascript:(function(){var expr=prompt('type your stuff:','');if(expr)alert('Result: '+eval(expr));})();
